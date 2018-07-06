@@ -14,12 +14,12 @@ Upload to Google drive from FTP server synchronously upon new files created<br/>
   4. Ionic.Zip - Although we don't compress files in this project, to make the reference code working
       + https://github.com/Obrelix/.net-Google-Drive-API-v3-File-Handling (e4ab28d on 4 Jun 2017)<br/><br/>
   
-#  References<br/>
+# References<br/>
   1. GoogleDriveManager - show how to use Google Drive API<br/>
      GTools.cs / GoogleDriveUploader.cs / MimeTypeConverter.cs are from 
      https://github.com/Obrelix/.net-Google-Drive-API-v3-File-Handling (e4ab28d on 4 Jun 2017) 
      with minor modifications<br/><br/>
-  2. FileSystemWatcherMemoryCache - An extension to [Nesta CMS](https://msdn.microsoft.com/en-us/library/system.io.filesystemwatcher(v=vs.110).aspx "FileSystemWatcher") with the capability to trigger event whenever a new created file is ready.<br/>       
+  2. FileSystemWatcherMemoryCache - An extension to [FileSystemWatcher](https://msdn.microsoft.com/en-us/library/system.io.filesystemwatcher(v=vs.110).aspx) with the capability to trigger event whenever a new created file is ready.<br/> 
       + https://github.com/benbhall/FileSystemWatcherMemoryCache (c788b20 on 25 Nov 2017)<br/>
       
       
