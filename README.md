@@ -23,8 +23,8 @@ Upload to Google drive from FTP server synchronously upon new files created<br/>
       
       
 # Documents
-* [4 Steps to Empower Logging for your Windows Application Development with Log4Net](https://drive.google.com/open?id=1aTPz7TWOUhI6jBQNInqq6OMeKLcG62Qz)<br/><br/><br/>
-* [How to Apply for a Secret for Google APIs](https://drive.google.com/open?id=1afvB0KPzB0Ki8sHe5w-HzV62xTaL0xQt)
+* [4 Steps to Empower Logging for your Windows Application Development with Log4Net](https://drive.google.com/open?id=1aTPz7TWOUhI6jBQNInqq6OMeKLcG62Qz)
+* [How to Apply for a Secret for Google APIs](https://drive.google.com/open?id=1afvB0KPzB0Ki8sHe5w-HzV62xTaL0xQt)<br/><br/><br/>
 
 
 ### John 14:6
