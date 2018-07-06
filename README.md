@@ -7,7 +7,7 @@ Upload to Google drive from FTP server synchronously upon new files created<br/>
 * FTP clients to upload files to the server
 * The server uploads files upon creation to Google drive in a synchronous way.<br/><br/>
 
-# Nuget packages to install<br/>
+# Nuget packages installed<br/>
   1. log4net - logging<br/>
   2. Google.Apis.Drive.v3 - upload files to Google drive<br/>
   3. Newtonsoft.Json - parsing Google API JSON secret<br/>
