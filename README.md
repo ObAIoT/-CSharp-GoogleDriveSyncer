@@ -28,6 +28,6 @@ Upload to Google drive from FTP server synchronously upon new files created<br/>
 
 
 ### John 14:6
-Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.<br/><br/><br/>
+Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.<br/><br/>
 
 For more information, please feel free to email: contact@obaiot.com
