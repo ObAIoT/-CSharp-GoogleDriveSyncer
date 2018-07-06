@@ -15,7 +15,7 @@ Upload to Google drive from FTP server synchronously upon new files created<br/>
       + https://github.com/Obrelix/.net-Google-Drive-API-v3-File-Handling (e4ab28d on 4 Jun 2017)<br/><br/>
   
 # References<br/>
-  1. GoogleDriveManager - show how to use Google Drive API<br/>
+  1. GoogleDriveManager- e4ab28d on 4 Jun 2017(https://github.com/Obrelix/.net-Google-Drive-API-v3-File-Handling) - show how to use Google Drive API<br/>
      GTools.cs / GoogleDriveUploader.cs / MimeTypeConverter.cs are from 
      https://github.com/Obrelix/.net-Google-Drive-API-v3-File-Handling (e4ab28d on 4 Jun 2017) 
      with minor modifications<br/><br/>
