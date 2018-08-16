@@ -27,7 +27,7 @@ Upload to Google drive from FTP server synchronously upon new files created<br/>
 * [How to Apply for a Secret for Google APIs](https://drive.google.com/open?id=1afvB0KPzB0Ki8sHe5w-HzV62xTaL0xQt)<br/><br/><br/>
 
 
-### John 14:6
-Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.<br/><br/>
+### John 10:10
+The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full..<br/><br/>
 
 For more information, please feel free to email: contact@obaiot.com
